@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\QuickReloadmod\obj\Release\net9.0\QuickReload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\QuickReloadmod\obj\Release\net9.0\QuickReload.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QuickReloadmod\obj\Release\net9.0\QuickReload.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\QuickReloadmod\bin\Release\net9.0\QuickReload.deps.json
+C:\Users\Admin\Desktop\QuickReloadmod\bin\Release\net9.0\QuickReload.dll
+C:\Users\Admin\Desktop\QuickReloadmod\bin\Release\net9.0\QuickReload.pdb
+C:\Users\Admin\Desktop\QuickReloadmod\bin\Release\net9.0\0Harmony.dll
+C:\Users\Admin\Desktop\QuickReloadmod\bin\Release\net9.0\GodotSharp.dll
+C:\Users\Admin\Desktop\QuickReloadmod\bin\Release\net9.0\Steamworks.NET.dll
+C:\Users\Admin\Desktop\QuickReloadmod\bin\Release\net9.0\sts2.dll
+C:\Users\Admin\Desktop\QuickReloadmod\obj\Release\net9.0\QuickRel.86E2BBB7.Up2Date
+C:\Users\Admin\Desktop\QuickReloadmod\obj\Release\net9.0\QuickReload.dll
+C:\Users\Admin\Desktop\QuickReloadmod\obj\Release\net9.0\refint\QuickReload.dll
+C:\Users\Admin\Desktop\QuickReloadmod\obj\Release\net9.0\QuickReload.pdb
+C:\Users\Admin\Desktop\QuickReloadmod\obj\Release\net9.0\ref\QuickReload.dll
